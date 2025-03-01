@@ -16,8 +16,8 @@ Each exercise is stored in its respective language folder
 - Clone the repository:
 
   ```sh
-  git clone <gi>
-  cd exercism-solutions
+  git clone <https://github.com/SantoshShrestha11/Exercism.git>
+  cd Exercism
 
     Navigate to the specific exercise folder and check out the solution.
     If you're also solving Exercism challenges, try them yourself before looking at solutions!
